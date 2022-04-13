@@ -10,7 +10,7 @@ import java.util.List;
 
 public class OpenCSVReader {
 
-    private static final String SAMPLE_CSV_FILE_PATH = "F:\\address-book-system-csv-json\\users.csv";
+    private static final String SAMPLE_CSV_FILE_PATH = "C:\\Users\\Nagu\\eclipse-workspace\\address-book-system-csv-json\\src\\com\\bridgelabz\\addressbookjsoncsv\\users.csv";
 
     public static void main(String[] args) throws IOException {
         try (
