@@ -11,8 +11,8 @@ import java.util.Arrays;
 import java.util.List;
 
 public class OpenCSVAndGSONTester {
-    private static final String SAMPLE_CSV_FILE_PATH = "F:\\address-book-system-csv-json\\users-with-header.csv";
-    private static final String SAMPLE_JSON_FILE_PATH = "F:\\address-book-system-csv-json\\users.json";
+    private static final String SAMPLE_CSV_FILE_PATH = "C:\\Users\\Nagu\\eclipse-workspace\\address-book-system-csv-json\\src\\com\\bridgelabz\\addressbookjsoncsv\\users-with-header.csv";
+    private static final String SAMPLE_JSON_FILE_PATH = "C:\\Users\\Nagu\\eclipse-workspace\\address-book-system-csv-json\\src\\com\\bridgelabz\\addressbookjsoncsv\\users.json";
 
     public static void main(String[] args) {
 

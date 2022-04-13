@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class OpenCSVWriter {
-    private static final String OBJECT_LIST_SAMPLE = "F:\\address-book-system-csv-json\\users-with-header.csv";
+    private static final String OBJECT_LIST_SAMPLE = "C:\\Users\\Nagu\\eclipse-workspace\\address-book-system-csv-json\\src\\com\\bridgelabz\\addressbookjsoncsv\\users-with-header.csv";
 
     public static void main(String[] args) throws IOException,
             CsvDataTypeMismatchException,
